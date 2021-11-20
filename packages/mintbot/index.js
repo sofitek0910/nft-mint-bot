@@ -88,13 +88,8 @@ async function  attemptMint( web3 ){
             } ]
         }, [ numberToMint ]);
 
- 
-
-
     var max_gas_cost = 822619;
 
-   
- 
     var estimatedGasCost = null
 
     console.log(addressFrom, addressTo)
